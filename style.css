@@ -61,7 +61,7 @@ h2{
 }
 #full-development-experience{
     border-left: 7px solid;
-    border-image: linear-gradient(salmon, tomato);
+    border-image: linear-gradient(salmon, rgb(7, 20, 199));
     border-image-slice: 1;
 
 }
